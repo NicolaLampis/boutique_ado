@@ -66,8 +66,25 @@ body {
 	top: 0;
 	left: 0;
 	position: fixed;
-	background: linear-gradient(90deg, rgba(242,242,242,1) 0%, rgba(255,255,255,1) 50%, rgba(242,242,242,1) 100%);
+	background: white;
 	z-index: -1;
+}
+
+a.category-badge > span.badge:hover {
+    background: #212529 !important;
+    color: #fff !important;
+}
+
+.btt-button {
+    height: 42px;
+    width: 42px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+.btt-link {
+    cursor: pointer;
 }
 
 /* -------------------------------- Media Queries */
