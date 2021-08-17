@@ -1,3 +1,7 @@
+The site provides all the functionality for a common shopping experience, such as: browsing the menu, providing a shopping cart to save chosen items, have a secure checkout payment and have a personalised emailed message. Backed inside the app there are admin, user and database funtionalities.
+
+**Please note:** _This site is purely for educational purposes only. The payments use a real API but remain in test mode, so no real payment will be taken. Please do not enter real credit card details when using this site._
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome NicolaLampis,
